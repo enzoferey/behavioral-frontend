@@ -1,0 +1,4 @@
+export const events = {
+  BUTTON_CLICKED: "BUTTON_CLICKED",
+  SHOW_HELLO_WORLD: "SHOW_HELLO_WORLD",
+};

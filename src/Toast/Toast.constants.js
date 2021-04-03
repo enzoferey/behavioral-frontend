@@ -1,0 +1,6 @@
+export const events = {
+  SHOW_TOAST: "SHOW_TOAST",
+  HIDE_TOAST: "HIDE_TOAST",
+  BLOCK_TOAST: "BLOCK_TOAST",
+  UNLOCK_TOAST: "UNLOCK_TOAST",
+};
